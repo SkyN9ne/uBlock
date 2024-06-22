@@ -1,3 +1,19 @@
+- [Add `:matches-prop()` pseudo CSS operator](https://github.com/gorhill/uBlock/commit/aca7674bac)
+- [Improve `set-cookie` scriptlet](https://github.com/gorhill/uBlock/commit/b4d8750f44)
+- [Improve `trusted-replace-node-text` scriptlet](https://github.com/gorhill/uBlock/commit/cb0f65e035)
+- [Improve `trusted-replace-[fetch|xhr]-response` scriptlets](https://github.com/gorhill/uBlock/commit/9072772f61)
+- [Improve `prevent-addEventListener` scriptlet](https://github.com/gorhill/uBlock/commit/91ee5bdeae)
+- [Add `isodate` as available placeholder for auto-comment](https://github.com/gorhill/uBlock/commit/d5208ee5dd)
+- [Improve `trusted-replace-outbound-text` scriptlet](https://github.com/gorhill/uBlock/commit/fa6740a059)
+- [Classify generic cosmetic filters with comma as highly generic](https://github.com/gorhill/uBlock/commit/8f81833efc)
+- [Raise max buffer size for response body filtering](https://github.com/gorhill/uBlock/commit/82a3992896)
+- [Trim end of class tokens in generic cosmetic filtering's surveyor](https://github.com/gorhill/uBlock/commit/8ea1bac80b)
+- [Improve `trusted-set-cookie` scriptlet](https://github.com/gorhill/uBlock/commit/0e1e4b82c5)
+
+----------
+
+# 1.58.0
+
 ## Fixes / changes
 
 - [Fallback to `requestAnimationFrame` when `requestIdleCallback` is not available](https://github.com/gorhill/uBlock/commit/59ffc96e89)

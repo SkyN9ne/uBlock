@@ -634,7 +634,7 @@
 		"title": "🇭🇺hu: hufilter",
 		"tags": "ads hungarian",
 		"lang": "hu",
-		"contentURL": "https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-ublock.txt",
+		"contentURL": "https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-ublock.txt",
 		"supportURL": "https://github.com/hufilter/hufilter"
 	},
 	"IDN-0": {
@@ -767,6 +767,7 @@
 		"tags": "ads afrikaans be belgië frisian dutch flemish nederlands netherlands nl sr suriname za",
 		"lang": "af fy nl",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/8.txt",
+		"cdnURLs": null,
 		"supportURL": "https://kb.adguard.com/en/general/adguard-ad-filters"
 	},
 	"NOR-0": {
